@@ -2,7 +2,7 @@
   $(function(){
 
     $('.sidenav').sidenav();
-    $('.parallax').parallax();
+    // $('.parallax').parallax();
     $('.carousel').carousel({
       fullWidth: true,
       duration: 500
